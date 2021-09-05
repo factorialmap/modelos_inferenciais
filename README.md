@@ -1,4 +1,4 @@
-## Modelo preditivo
+## Modelo inferencial
 
 ### Conteúdo:
   * [Por que eu gastaria tempo aprendendo isso?](#Por-que-eu-gastaria-tempo-aprendendo-isso?)
